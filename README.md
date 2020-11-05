@@ -1,6 +1,6 @@
 # flutter_app_memomemo
 
-메로를 할 수 있는 플러터 프로젝트
+메모를 할 수 있는 플러터 프로젝트
 
 ## Getting Started
 
